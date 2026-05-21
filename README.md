@@ -6,7 +6,7 @@ El objetivo principal fue aprender el uso de comandos básicos del depurador DEB
 
 ---
 
-# 🚀 Objetivos del Laboratorio
+#  Objetivos del Laboratorio
 
 Configurar el entorno DOSBox  
 Montar una unidad virtual  
